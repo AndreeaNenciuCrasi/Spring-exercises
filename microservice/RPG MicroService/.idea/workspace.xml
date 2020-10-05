@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0d459ae-661f-4882-91a0-9d446cfd22dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iN2CwTnq7Uv1NXhdrIstOXeZRz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.rpggame.service" />
+      <recent name="com.example.diceroll.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="All in diceroll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diceroll" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DicerollApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diceroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diceroll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.diceroll" />
+      <option name="MAIN_CLASS_NAME" value="com.example.diceroll.DicerollApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpgGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpggame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.rpggame.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.rpggame.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.rpggame.service.RpgGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.diceroll.service in diceroll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diceroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diceroll.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.diceroll.service" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DicerollApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diceroll" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diceroll.DicerollApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpggameApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpggame" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rpggame.RpggameApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.serviceregistry.ServiceRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in diceroll" />
+      <item itemvalue="JUnit.com.example.diceroll.service in diceroll" />
+      <item itemvalue="JUnit.DicerollApplicationTests" />
+      <item itemvalue="JUnit.RpgGameTest" />
+      <item itemvalue="Spring Boot.DicerollApplication2" />
+      <item itemvalue="Spring Boot.ServiceRegistryApplication" />
+      <item itemvalue="Spring Boot.RpggameApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RpgGameTest" />
+        <item itemvalue="JUnit.All in diceroll" />
+        <item itemvalue="JUnit.com.example.diceroll.service in diceroll" />
+        <item itemvalue="JUnit.DicerollApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d459ae-661f-4882-91a0-9d446cfd22dd" name="Default Changelist" comment="" />
+      <created>1601733604893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601733604893</updated>
+      <workItem from="1601733609725" duration="5957000" />
+      <workItem from="1601797594796" duration="10353000" />
+      <workItem from="1601882706650" duration="4166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="800" height="677" key="#Project_Structure" timestamp="1601733839194">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Project_Structure/67.27.1533.873@67.27.1533.873" timestamp="1601733839194" />
+    <state x="291" y="120" width="1281" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601800257084">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="291" y="120" width="1281" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1601800257084" />
+    <state x="641" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1601807162384">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="641" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1601807162384" />
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601805839762">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1533.873@67.27.1533.873" timestamp="1601805839762" />
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom" timestamp="1601809686195">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1601809686195" />
+    <state width="1487" height="219" key="GridCell.Tab.0.center" timestamp="1601809686195">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1601809686195" />
+    <state width="1487" height="219" key="GridCell.Tab.0.left" timestamp="1601809686194">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1601809686194" />
+    <state width="1487" height="219" key="GridCell.Tab.0.right" timestamp="1601809686195">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1601809686195" />
+    <state width="1487" height="219" key="GridCell.Tab.1.bottom" timestamp="1601809686196">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1601809686196" />
+    <state width="1487" height="219" key="GridCell.Tab.1.center" timestamp="1601809686196">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1601809686196" />
+    <state width="1487" height="219" key="GridCell.Tab.1.left" timestamp="1601809686195">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1601809686195" />
+    <state width="1487" height="219" key="GridCell.Tab.1.right" timestamp="1601809686196">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1601809686196" />
+    <state x="419" y="117" width="819" height="691" key="NewModule_or_Project.wizard" timestamp="1601905679099">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="419" y="117" width="819" height="691" key="NewModule_or_Project.wizard/67.27.1533.873@67.27.1533.873" timestamp="1601905679099" />
+    <state x="316" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1601886614959">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="316" y="40" width="1024" height="845" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1601886614959" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1601882706283">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1601882706283" />
+    <state x="569" y="153" width="529" height="619" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601803430793">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="569" y="153" width="529" height="619" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1533.873@67.27.1533.873" timestamp="1601803430793" />
+    <state x="137" y="63" width="1372" height="799" key="new project wizard" timestamp="1601905608370">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="137" y="63" width="1372" height="799" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1601905608370" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RPG_MicroService$All_in_diceroll.ic" NAME="All in diceroll Coverage Results" MODIFIED="1601734766445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/RPG_MicroService$com_example_diceroll_service_in_diceroll.ic" NAME="com.example.diceroll.service in diceroll Coverage Results" MODIFIED="1601734726308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.diceroll.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

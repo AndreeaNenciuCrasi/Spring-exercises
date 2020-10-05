@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="760e81e2-f8a4-4807-b44f-db043b38ea60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gx9Rw21bjSSUwW9NdVF8b26yTW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Advanced" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in mockito-tutorial">
+    <configuration name="All in mockito-tutorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoBusinessImpStubTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.business" />
+      <option name="MAIN_CLASS_NAME" value="com.example.business.TodoBusinessImpStubTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in mockito-tutorial" />
+        <item itemvalue="JUnit.TodoBusinessImpStubTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="760e81e2-f8a4-4807-b44f-db043b38ea60" name="Default Changelist" comment="" />
+      <created>1599045371809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599045371809</updated>
+      <workItem from="1599045379430" duration="3180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1665" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1599047241167">
+      <screen x="1024" y="0" width="1600" height="900" />
+    </state>
+    <state x="1665" y="181" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/1024.0.1600.900/0.27.1024.741@1024.0.1600.900" timestamp="1599047241167" />
+    <state x="1471" y="390" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599046196899">
+      <screen x="1024" y="0" width="1600" height="900" />
+    </state>
+    <state x="1471" y="390" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1024.0.1600.900/0.27.1024.741@1024.0.1600.900" timestamp="1599046196899" />
+    <state x="1640" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599048765447">
+      <screen x="1024" y="0" width="1600" height="900" />
+    </state>
+    <state x="1640" y="220" width="424" height="484" key="FileChooserDialogImpl/1024.0.1600.900/0.27.1024.741@1024.0.1600.900" timestamp="1599048765447" />
+  </component>
+</project>
